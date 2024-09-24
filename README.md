@@ -1,1 +1,2 @@
-# exercise_tracker
+# Exercise Tracker 
+Developed a website using MERN Stack to tack the exercise.
